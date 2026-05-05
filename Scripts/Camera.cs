@@ -4,7 +4,7 @@ using UnityEngine;
 public class SideScrollingCamera : MonoBehaviour
 {
     public Transform trackedObject;
-    public float height = 6.5f;
+    public float height = 8f;
     public float undergroundHeight = 0f;
 
     private void LateUpdate()
